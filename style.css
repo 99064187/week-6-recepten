@@ -1,0 +1,14 @@
+div{
+	width:600px;
+	margin:0 auto;
+}
+
+h1.title{
+	border-bottom: 2px solid black;
+}
+
+img.middle{
+	float: middle;
+}
+
+p.tip { background-color:lightgreen }
