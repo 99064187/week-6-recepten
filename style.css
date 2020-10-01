@@ -4,16 +4,13 @@ div{
 	border-width: 25px;
 }
 
-ol{
-	margin:20px;
-}
 
-h1{
+h2{
 	font-size:32px;
 	line-height:32px;
 }
 
-h1.title{
+h1{
 	border-bottom: 2px solid black;
 	font-size:36px;
 	line-height:36px;
@@ -23,10 +20,18 @@ img.middle{
 	float: middle;
 }
 
-p.tip { background-color:#def6ed  }
+p.tip {
+ background-color:#def6ed;  
+}
 
-li{
-  margin:10px;
+
+ul li{
+  margin-top:10px;
+  
+}
+ol li{
+	margin-top: 20px;
+	
 }
 body{
 	font-family: 'Roboto', sans-serif;
@@ -36,3 +41,4 @@ p{
 	font-size:20px;
 	line-height:26px; 
 }
+
